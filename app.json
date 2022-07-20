@@ -1,0 +1,18 @@
+{
+    "name": "time",
+    "description": "LE",
+    "keywords": ["time"],
+    "env": {
+        "ID": {
+            "description": "ID",
+            "value": "xxxxx"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/ru349friok/fyjgm",
+    "repository": "https://github.com/ru349friok/fyjgm",
+    "stack": "container"
+}
